@@ -1,4 +1,6 @@
+import TodoList from '@/components/TodoList'
+
 const TodoPage = () => {
-  return <div>list of todos</div>
+  return <TodoList />
 }
 export default TodoPage
